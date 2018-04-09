@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="jgoodies-forms-1.8.0.jar;miglayout15-swing.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="bouchenard.project.emulator.VUE,bouchenard.project.main,bouchenard.project.central.MODEL,bouchenard.project.emulator.CONTROLLER,bouchenard.project.central.socket,bouchenard.project.central.CONTROLLER,bouchenard.project.emulator.socket,bouchenard.project.central.VUE,bouchenard.project.emulator.MODEL" source="1.8" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>

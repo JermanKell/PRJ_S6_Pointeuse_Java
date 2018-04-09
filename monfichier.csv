@@ -1,0 +1,33 @@
+Name of the company:;BlueSkyNet
+
+Boss of the company:
+FirstName;LastName;Sex;Mail;Phone;StreetNumber;GetStreetName;Town;ZipCode
+Alain;Deleau;Male;null;null;0;null;null;null
+
+List of every employees in the company:
+Id;FirstName;LastName;Sex;Mail;Phone;StreetNumber;GetStreetName;Town;ZipCode;TimeStart;TimeEnd;MinutsSupply
+acqq9;Jean;Michel;Male;null;null;0;null;null;null;08:30;20:45;-15
+azq3;Bobby;Jax;Male;Bobby@mail;0611223344;12;rue des fleur;Paris;98500;07:45;18:15;0
+maa1;Alexia;Petit;Female;null;null;0;null;null;null;07:45;20:00;0
+
+Management department of the company:
+Id;Name
+00;Direction Management
+
+List of managers:
+Id;FirstName;LastName;Sex;Mail;Phone;StreetNumber;GetStreetName;Town;ZipCode;TimeStart;TimeEnd;MinutsSupply
+maa1;Alexia;Petit;Female;null;null;0;null;null;null;07:45;20:00;0
+
+List of Departments:
+Id;Name
+01;Direction financière
+
+List of employees in the department:
+Id;FirstName;LastName;Sex;Mail;Phone;StreetNumber;GetStreetName;Town;ZipCode;TimeStart;TimeEnd;MinutsSupply
+azq3;Bobby;Jax;Male;Bobby@mail;0611223344;12;rue des fleur;Paris;98500;07:45;18:15;0
+
+Id;Name
+02;Direction marketing
+
+List of employees in the department:
+Id;FirstName;LastName;Sex;Mail;Phone;StreetNumber;GetStreetName;Town;ZipCode;TimeStart;TimeEnd;MinutsSupply
